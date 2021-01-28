@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Products Management\bin\Debug\Products Management.exe.config
+C:\Users\Admin\source\repos\Products Management\bin\Debug\Products Management.exe
+C:\Users\Admin\source\repos\Products Management\bin\Debug\Products Management.pdb
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products Management.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products_Management.PL.FRM_LOGIN.resources
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products_Management.Properties.Resources.resources
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products Management.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products Management.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products Management.exe
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products Management.pdb
+C:\Users\Admin\source\repos\Products Management\obj\Debug\Products_Management.PL.FRM_MAIN.resources
